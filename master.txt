@@ -1,3 +1,4 @@
 add master
 modify master
 update master
+delete master
